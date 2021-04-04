@@ -5,7 +5,7 @@ import (
 )
 
 func greet() {
-	fmt.Printf("Hello Word!")
+	fmt.Println("Hello World!")
 }
 
 func main() {
